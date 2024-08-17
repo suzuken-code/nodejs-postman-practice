@@ -1,1 +1,1 @@
-# nodejs-postman-practice
+# このプロジェクトではnodejsを使って、postmanでAPI通信の練習をします。
